@@ -1,0 +1,20 @@
+{
+  "name": "lenonvinhas.github.io",
+  "version": "1.0.0",
+  "homepage": "https://github.com/lenonVinhas/lenonvinhas.github.io",
+  "authors": [
+    "vinhaslenon <vinhaslenon@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "~0.5.5",
+    "core-drawer-panel": "Polymer/core-drawer-panel#~0.5.5"
+  }
+}
